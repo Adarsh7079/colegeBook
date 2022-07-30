@@ -11,18 +11,27 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView txtview;
+    TextView txtview,txtview2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_main);
-        txtview=(Button) findViewById(R.id.newaccount);
+        txtview=(TextView) findViewById(R.id.newaccount);
+        txtview2=(TextView) findViewById(R.id.forgetpass);
         txtview.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent=new Intent(MainActivity.this,Signup.class);
+                Intent intent=new Intent(MainActivity.this,signup.class);
+                startActivity(intent);
+
+            }
+        });
+        txtview2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(MainActivity.this,course.class);
                 startActivity(intent);
 
             }
