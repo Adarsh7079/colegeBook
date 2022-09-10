@@ -3,14 +3,109 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_ai.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_android.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_bd.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_beee.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_buildingconstruction.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_buildingmaterial.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/activity_casefourthsem.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_casemaths1.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/activity_casethirdsem.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_chemistry.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/activity_civil.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_civileight.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_civilelective1.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_civilelective2.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_civilfifth.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_civilfourth.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_civilm3.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_civilsecond.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/activity_civilseventh.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_civilsix.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_civilthird.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_cn.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_coalp.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_comenglish2.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_comenglishprev.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_communicationenglish.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_computation.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_concrete2.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_course.xml" value="0.35885416666666664" />
         <entry key="app/src/main/res/layout/activity_courseselect.xml" value="0.3183876811594203" />
+        <entry key="app/src/main/res/layout/activity_cpp.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_cse.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_csechemistry.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_cseeightsem.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_csefifthsem.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_csefourthsem.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_csemaths1.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_csesecondsem.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_cseseventhsem.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_csesixthsem.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_csethird.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_csethirdsem.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_daa.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_dcld.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_designofconcrete.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_ds.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_dsa.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_elective.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_eme.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_emeprev.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_evs.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_firstsem.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_fluid.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_hvalue.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_hvalue2.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_hydrology2.xml" value="0.1933876811594203" />
+        <entry key="app/src/main/res/layout/activity_irrigation1.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_irrigation2.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_it.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_it2.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_java.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_machnielearning.xml" value="0.35885416666666664" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3183876811594203" />
         <entry key="app/src/main/res/layout/activity_main2.xml" value="0.3183876811594203" />
+        <entry key="app/src/main/res/layout/activity_maths2.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_maths3.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_oop.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_openelective.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_os.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_physics.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_physics_prev.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_physicsprev.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_prevbeee.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/activity_prevchemistry.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_prevcoalp.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_prevdcld.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_prevdsa.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/activity_prevfcpit.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_prevhvalue.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_prevm1.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_prevm2.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/activity_prevm3.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/activity_prevoop.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_professionalpratics.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_python.xml" value="0.35885416666666664" />
         <entry key="app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_software.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_soilmechanics.xml" value="0.34375" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.3183876811594203" />
+        <entry key="app/src/main/res/layout/activity_steelstructure.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_steelstructure2.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_strengthofmaterial.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_structureana2.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_strucureanalysis.xml" value="0.34375" />
+        <entry key="app/src/main/res/layout/activity_suveying.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_transpotationengineering1.xml" value="0.35885416666666664" />
+        <entry key="app/src/main/res/layout/activity_web.xml" value="0.35885416666666664" />
         <entry key="app/src/main/res/layout/branch_row.xml" value="0.1" />
         <entry key="app/src/main/res/layout/dropdown.xml" value="0.3183876811594203" />
         <entry key="app/src/main/res/layout/iteamlist.xml" value="0.3183876811594203" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.3578125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2065" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2065" />
       </map>
     </option>
   </component>

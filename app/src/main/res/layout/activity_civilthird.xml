@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".civilthird">
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginEnd="115dp"
+        android:layout_marginBottom="160dp"
+        android:fontFamily="serif"
+        android:hint="Syllabus"
+        android:textAlignment="center"
+
+        android:textSize="35dp"
+        android:textStyle="bold|italic"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="230dp"
+        android:orientation="vertical"
+        >
+        <Button
+            android:id="@+id/buttonstrengthmaterial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"
+            android:text="Strength Of Materials"
+            android:textSize="20dp"
+            android:onClick="popup"
+            android:fontFamily="@font/baloo_bhaijaan"
+            app:cornerRadius="20dp"
+            tools:ignore="OnClick" />
+
+        <Button
+            android:id="@+id/buttonfluid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fluid Mechanics"
+            android:layout_margin="5dp"
+            app:cornerRadius="20dp"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"/>
+        <Button
+            android:id="@+id/buttonbmaterial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulding Materials"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:layout_margin="5dp"
+            app:cornerRadius="20dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"/>
+
+        <Button
+            android:id="@+id/buttonevs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Environmental Engineering"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:layout_margin="5dp"
+            app:cornerRadius="20dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"/>
+        <Button
+            android:id="@+id/buttonsurvey"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Surveying I (Pratical)"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:layout_margin="5dp"
+            app:cornerRadius="20dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"/>
+
+    </LinearLayout>
+</RelativeLayout>

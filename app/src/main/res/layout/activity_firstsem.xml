@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".firstsem">
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginEnd="115dp"
+        android:layout_marginBottom="160dp"
+        android:fontFamily="serif"
+        android:hint="Syllabus"
+        android:textAlignment="center"
+
+        android:textSize="35dp"
+        android:textStyle="bold|italic"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="230dp"
+        android:orientation="vertical"
+
+        >
+
+
+        <Button
+            android:id="@+id/buttonphysics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"
+            android:text="Physics "
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            app:cornerRadius="20dp"
+           />
+
+        <Button
+            android:id="@+id/buttonmaths1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Maths -I"
+            android:layout_margin="5dp"
+            app:cornerRadius="20dp"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"/>
+        <Button
+            android:id="@+id/buttoncomenglish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Communication English"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:layout_margin="5dp"
+            app:cornerRadius="20dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"/>
+
+        <Button
+            android:id="@+id/buttoneme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EME"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:layout_margin="5dp"
+            app:cornerRadius="20dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"/>
+        <Button
+            android:id="@+id/buttonhvalue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Human Value"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:layout_margin="5dp"
+            app:cornerRadius="20dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -10,4 +10,6 @@
     <color name="maincolor">#0C370E</color>
     <color name="buttoncolor">#E4931A</color>
     <color name="signup">#CFAC76</color>
+    <color name="btn">#7979DD</color>
+
 </resources>

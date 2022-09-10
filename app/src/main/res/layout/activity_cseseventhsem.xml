@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cseseventhsem"
+    android:background="@drawable/bg">
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="130dp"
+        android:layout_marginEnd="115dp"
+        android:layout_marginBottom="160dp"
+        android:fontFamily="serif"
+        android:hint="Syllabus"
+        android:textAlignment="center"
+
+        android:textSize="35dp"
+        android:textStyle="bold|italic"
+        android:visibility="visible" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="230dp"
+        android:orientation="vertical"
+
+        >
+
+
+        <Button
+            android:id="@+id/buttoncomputation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"
+            android:text="theory of computation "
+            android:textSize="20dp"
+            android:onClick="popup"
+            android:fontFamily="@font/baloo_bhaijaan"
+            app:cornerRadius="20dp"
+            tools:ignore="OnClick" />
+
+
+        <Button
+            android:id="@+id/buttonai"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="artificial intelligence"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:layout_margin="5dp"
+            app:cornerRadius="20dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"/>
+
+        <Button
+            android:id="@+id/buttonelective2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="elective-ii"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:layout_margin="5dp"
+            app:cornerRadius="20dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"/>
+        <Button
+            android:id="@+id/buttonelective3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="elective-iii"
+            android:textSize="20dp"
+            android:fontFamily="@font/baloo_bhaijaan"
+            android:layout_margin="5dp"
+            app:cornerRadius="20dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/blue"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
